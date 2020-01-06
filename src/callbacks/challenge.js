@@ -30,3 +30,4 @@ fetchData(API,function(error1,data1){
         });
     })
 })
+
